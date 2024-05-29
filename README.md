@@ -1,7 +1,9 @@
 Overview
+
 CarouselApp is a SwiftUI-based iOS application that showcases a dynamic, auto-advancing product carousel. The app is designed to display a series of product cards in a visually appealing and interactive manner, making it perfect for online stores or any app that needs to highlight a variety of products.
 
 Features:
+
 Dynamic Carousel: Automatically advancing product carousel with smooth transitions.
 Customizable Product Cards: Each card displays a product's image, name, price, category, and rating.
 Page Control: Intuitive page control indicator to show the current page.
@@ -10,11 +12,13 @@ Auto-Looping: The carousel automatically loops, providing an endless scroll expe
 Responsive Design: Adaptable layout that works well on different screen sizes.
 
 Technologies Used
+
 SwiftUI: For building the user interface.
 Combine: For managing state and handling the auto-advance timer.
 Foundation: For basic data structures and functionalities.
 
 Code Structure
+
 ContentView.swift: The entry point of the app, setting up the navigation.
 Home.swift: The main view containing the carousel.
 ProductCardView.swift: Custom view for displaying individual product details.
