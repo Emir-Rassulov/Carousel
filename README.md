@@ -43,5 +43,9 @@ CarouselApp.swift: The main application file.
 
 
 
-https://github.com/Emir-Rassulov/Carousel/assets/141578993/4cb58d15-5e75-4e13-badb-6bfbbe02eac0
+
+https://github.com/Emir-Rassulov/Carousel/assets/141578993/7c638c35-70f5-41da-bff8-82a1a4d63456
+
+
+
 
