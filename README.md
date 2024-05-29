@@ -20,10 +20,15 @@ Foundation: For basic data structures and functionalities.
 Code Structure
 
 ContentView.swift: The entry point of the app, setting up the navigation.
+
 Home.swift: The main view containing the carousel.
+
 ProductCardView.swift: Custom view for displaying individual product details.
+
 PageControl.swift: UIKit wrapper for displaying the page control indicator.
+
 HomeViewModel.swift: View model managing the state and logic of the carousel.
+
 CarouselApp.swift: The main application file.
 
 
