@@ -24,7 +24,7 @@ The carousel automatically loops, providing an endless scroll experience.
 Adaptable layout that works well on different screen sizes.
 
 
-# Technologies Used
+# Frameworks Used: 
 
 SwiftUI: For building the user interface.
 
@@ -33,7 +33,7 @@ Combine: For managing state and handling the auto-advance timer.
 Foundation: For basic data structures and functionalities.
 
 
-# Code Structure
+# Code Structure: 
 
 ContentView.swift: The entry point of the app, setting up the navigation.
 
